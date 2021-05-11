@@ -13,7 +13,7 @@ class AppWidget extends StatelessWidget {
               child: Container(
                   decoration: BoxDecoration(
                       color: Colors.blue,
-                      borderRadius: BorderRadius.circular(10)),
+                      borderRadius: BorderRadius.circular(40)),
                   child: Text(
                     "Olá, Moisés DEV",
                     style: TextStyle(fontSize: 30, color: Colors.white),
