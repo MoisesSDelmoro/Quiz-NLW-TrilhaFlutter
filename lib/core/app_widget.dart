@@ -6,7 +6,18 @@ class AppWidget extends StatelessWidget {
     return MaterialApp(
       title: "DevQuiz",
       home: Scaffold(
-          appBar: AppBar(),
+          appBar: AppBar(
+            title: Center(child: Text("NLW5 Flutter")),
+          ),
+          body: Center(
+              child: Container(
+                  decoration: BoxDecoration(
+                      color: Colors.blue,
+                      borderRadius: BorderRadius.circular(10)),
+                  child: Text(
+                    "Olá, Moisés DEV",
+                    style: TextStyle(fontSize: 30, color: Colors.white),
+                  ))),
           floatingActionButton: FloatingActionButton(
             onPressed: () {},
             child: Icon(Icons.add),
