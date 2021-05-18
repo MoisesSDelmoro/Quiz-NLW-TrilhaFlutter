@@ -15,7 +15,7 @@ O Dev Quiz é um aplicativo que está sendo criado com o conteúdo do evento Nex
 $ https://github.com/MoisesSDelmoro/Quiz-NLW-TrilhaFlutter
 
 #Entrar no diretório
-$ cd $ https://github.com/MoisesSDelmoro/Quiz-NLW-TrilhaFlutter
+$ cd Quiz-NLW-TrilhaFlutter
 
 #Se quiser executar mais rápido
 $ flutter run
