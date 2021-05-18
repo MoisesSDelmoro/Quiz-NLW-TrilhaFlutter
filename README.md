@@ -12,7 +12,7 @@ O Dev Quiz é um aplicativo que está sendo criado com o conteúdo do evento Nex
 
 ```bash
 # Clonar o repositório
-$ https://github.com/MoisesSDelmoro/Quiz-NLW-TrilhaFlutter
+$ git clone https://github.com/MoisesSDelmoro/Quiz-NLW-TrilhaFlutter
 
 #Entrar no diretório
 $ cd Quiz-NLW-TrilhaFlutter
