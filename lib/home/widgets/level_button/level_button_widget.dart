@@ -19,7 +19,7 @@ class LevelButtonWidget extends StatelessWidget {
     },
     "Médio": {
       "color": AppColors.levelButtonMedio,
-      "borderColor": AppColors.levelButtonMedio,
+      "borderColor": AppColors.levelButtonBorderMedio,
       "fontColor": AppColors.levelButtonMedio,
     },
     "Difícil": {
